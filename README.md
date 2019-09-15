@@ -37,4 +37,4 @@ The folder _InkantationGame\Source Code\Gesture Recognizer Scripts_ contains the
 
 This is by-far one of the most unique projects I've ever gotten to take part in, and I am very proud of the results we were able to get from it, regardless of the visual status and bugs.
 
-There are two videos to demonstrate basic gameplay, one showing off mechanics [here] (https://drive.google.com/file/d/1Lmtsg-QFO_3-PcRfpXb9nU9Kpf5VyCPw/view?usp=sharing), and the other being a mock trailer put together by our producer [here] (https://drive.google.com/file/d/1ZlAAhVon_lzwQjA0JZdBeSkfF00nxgtI/view?usp=sharing).
+There are two videos to demonstrate basic gameplay, one showing off mechanics [here](https://drive.google.com/file/d/1Lmtsg-QFO_3-PcRfpXb9nU9Kpf5VyCPw/view?usp=sharing), and the other being a mock trailer put together by our producer [here](https://drive.google.com/file/d/1ZlAAhVon_lzwQjA0JZdBeSkfF00nxgtI/view?usp=sharing).
