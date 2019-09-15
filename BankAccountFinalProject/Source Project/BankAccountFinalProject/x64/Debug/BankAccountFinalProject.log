@@ -1,0 +1,23 @@
+﻿  accountController.cpp
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(154,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(733,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(847,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(885,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(924,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(963,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1002,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1108,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1181,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1232,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1280,11): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1328,11): warning C4129:  'd': unrecognized character escape sequence
+  balanceController.cpp
+  loginController.cpp
+  main.cpp
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\accountController.cpp(1417,14): warning C4129:  'd': unrecognized character escape sequence
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\main.cpp(156,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\main.cpp(154,9): warning C4101:  'length': unreferenced local variable
+  menuController.cpp
+  Generating Code...
+D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\BankAccountFinalProject\main.cpp(154,6): warning C4101:  'i': unreferenced local variable
+  BankAccountFinalProject.vcxproj -> D:\Repo\CodeProjectSamples\BankAccountFinalProject\Source Project\x64\Debug\BankAccountFinalProject.exe
