@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1695414341944936624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1695414341944936626}
+  - component: {fileID: 1695414341944936627}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1695414341944936626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695414341944936624}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.0797784, y: 1.62, z: 32.51534}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1695414341944936627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695414341944936624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 437ff9ea3bbf6534db755e8ab2e295d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  behindClips:
+  - {fileID: 8300000, guid: 7adaa3b5b3c04b34db695318c6104691, type: 3}
+  - {fileID: 8300000, guid: e0942442a7ffabf4ab378628e10ac845, type: 3}
+  - {fileID: 8300000, guid: 3e6f2d37f9a354e4b83723afcdebb354, type: 3}
+  frontClips:
+  - {fileID: 8300000, guid: 5562bda5fdd921d49800769ed53f9b8d, type: 3}
+  - {fileID: 8300000, guid: 60dcc81ec61820e4ba8716f2af696574, type: 3}
+  - {fileID: 8300000, guid: 633090708759e6a41a40669009b9d1e7, type: 3}
+  - {fileID: 8300000, guid: 3678ca2e063a9234c86f91abd65bb03c, type: 3}
+  judasMalacoda:
+  - {fileID: 8300000, guid: 15e0cb3ac7c7dd24fa78eaedb4bd9d02, type: 3}
+  - {fileID: 8300000, guid: 33509dcc367faf64cad5c4aad259ed17, type: 3}
+  judasKek:
+  - {fileID: 8300000, guid: c785a64b7db6b224a904b02518b4c360, type: 3}
+  - {fileID: 8300000, guid: 5e74b28c943674040991c772e84216d2, type: 3}
+  - {fileID: 8300000, guid: 22ab33c97042c094985271ad25b0886b, type: 3}
+  judasHurt:
+  - {fileID: 8300000, guid: 5d36247966aa2d24680debefed29e890, type: 3}
+  - {fileID: 8300000, guid: 1142ca7b4098e5f47aac6ff9c8b5671e, type: 3}
+  - {fileID: 8300000, guid: 134647684d30e38499495e471930e0d8, type: 3}
+  playerLoses:
+  - {fileID: 8300000, guid: dd915eb179c129240aea75968b4dd6cc, type: 3}
+  - {fileID: 8300000, guid: 07cc2451424cf1740a13a3be2f37f0b6, type: 3}
+  - {fileID: 8300000, guid: b45c0998b1965ab4caf9eaa0d99fef4b, type: 3}
+  kekEasterEgg: {fileID: 8300000, guid: 384c156c9026419429b9e4b0b91eb71a, type: 3}
+  easterEggChance: 1
+  timeBetweenEnemyLines: 3
+  maxNumHurtLinesPlayable: 4
+  timeBetweenHurtLines: 1.25
+  maxRequestLife: 3
+  minPitch: 0
+  maxPitch: 1
